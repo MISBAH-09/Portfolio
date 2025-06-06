@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 const ImageCarousel = ({ images }) => {
   if (!Array.isArray(images) || images.length === 0) {
@@ -19,6 +19,14 @@ const ImageCarousel = ({ images }) => {
   const nextSlide = () => {
     setCurrentIndex(currentIndex === length - 1 ? 0 : currentIndex + 1);
   };
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentIndex(prevIndex => (prevIndex === length - 1 ? 0 : prevIndex + 1));
+    }, 2000);
+
+    return () => clearInterval(interval);
+  }, [length]);
 
   return (
     <div className="relative w-full h-64 md:h-80 rounded-lg overflow-hidden mb-6">
