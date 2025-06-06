@@ -69,7 +69,7 @@ const About = () => {
               <div className="w-80 h-80 bg-gradient-to-br from-blue-400 to-purple-500 rounded-2xl transform rotate-6 absolute"></div>
               <div className="w-80 h-80 bg-gray-200 rounded-2xl relative overflow-hidden transform hover:rotate-3 transition-transform duration-300">
                 <img 
-                  src="../../public/picture.jpg" 
+                  src="/image/picture.jpg" 
                   alt="Profile" 
                   className="w-full h-full object-cover"
                 />
