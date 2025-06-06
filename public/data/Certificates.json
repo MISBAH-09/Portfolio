@@ -1,0 +1,93 @@
+{
+  "certificates": {
+    "tech": [
+      {
+        "id": 1,
+        "name": "UR 20/30 e-Learning",
+        "issuer": "Universal Robots",
+        "date": "March 2025",
+        "image": "/certificates/tech/UR20-30.jpg",
+        "link": "#"
+      },
+      {
+        "id": 2,
+        "name": "JavaScript for Beginner",
+        "issuer": "SimpliLeran",
+        "date": "May 2025",
+        "image": "/certificates/tech/javaScript.jpg",
+        "link": "https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzI0IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODM1MjYwNl84NjUyODU5MTc0NzQxMzk4NjQ2MS5wbmciLCJ1c2VybmFtZSI6Ik1pc2JhaCBTZWhhciJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4212%2FJavaScript%2520for%2520Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1458724795479670384&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVD43Idyk0MzR1DUmyrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAPmGPVRBAAAA"
+      },
+       {
+        "id": 3,
+        "name": "Web A Thon",
+        "issuer": "TechnoVerse @ CUI-Lahore",
+        "date": "May 2025",
+        "image": "/certificates/tech/WebAThon.jpg",
+        "link": "https://www.linkedin.com/posts/misbah-sahar-898825282_webathon-technoverse-innovation-activity-7334938375528804352-XVCP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETSSLQBaaHP1McdPewf0nsVnZ5QUrgjt1s"
+      },
+      {
+        "id": 4,
+        "name": "Query Master",
+        "issuer": "TechnoVerse @ CUI-Lahore",
+        "date": "June 2025",
+        "image": "/certificates/tech/QueryMaster.jpg",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7336025638840995841/"
+      }, {
+        "id": 5,
+        "name": "React JS",
+        "issuer": "Udemy",
+        "date": "June 2025",
+        "image": "/certificates/tech/ReactJs.PNG",
+        "link": "https://www.udemy.com/certificate/UC-db0241b8-6ac7-472a-af08-93605bb7d72e/"
+      }
+    ],
+    "nontech": [
+      {
+        "id": 21,
+        "name": "CCNA: Introduction to Networks",
+        "issuer": "Cisco Academy offered by COMSATS ",
+        "date": "Feb 2025",
+        "image": "/certificates/non-tech/CCNA.jpg",
+        "link": "https://www.credly.com/badges/e4244d0c-4108-41c7-b9a4-430b87609e23"
+      },
+      {
+        "id": 22,
+        "name": "IT & CyberSecurity - 101",
+        "issuer": "Udemy",
+        "date": "May 2025",
+        "image": "/certificates/non-tech/IT-cyberSecurity.jpg",
+        "link": "https://www.udemy.com/certificate/UC-a86c2b59-d02c-40a2-b6da-8c2488a347d4/"
+      }, {
+        "id": 23,
+        "name": "Complete CyberSecurity Course",
+        "issuer": "Udemy",
+        "date": "May 2022",
+        "image": "/certificates/non-tech/CompleteCyberSecurity.jpg",
+        "link": "https://www.udemy.com/certificate/UC-48a4b22b-55a1-41b8-927c-dae0735f49eb/"
+      }
+    ],
+    "volunteer": [
+      {
+        "id": 31,
+        "name": "Apperciation Certificate",
+        "issuer": "Robotics and automation Society @CUI",
+        "date": "2024",
+        "image": "/certificates/voulnteer/RAScertificate.jpg",
+        "link": "#"
+      },
+      {
+        "id": 32,
+        "name": "Preparation Head",
+        "issuer": "Robotics and automation Society @CUI",
+        "date": "2025",
+        "image": "/certificates/voulnteer/PreparationHead.png",
+        "link": "#"
+      }
+    ]
+  },
+  "categories": [
+    { "id": "tech", "name": "Technical", "color": "blue" },
+    { "id": "nontech", "name": "Non-Technical", "color": "purple" },
+    { "id": "volunteer", "name": "Volunteer", "color": "green" }
+  ]
+}

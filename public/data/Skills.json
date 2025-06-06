@@ -1,0 +1,46 @@
+[
+  {
+    "icon": "Code",
+    "title": "Frontend Development",
+    "color": "blue",
+    "skills": [
+      { "name": "HTML", "level": 95 },
+      { "name": "CSS", "level": 95 },
+      { "name": "JavaScript", "level": 80 },
+      { "name": "React JS", "level": 75 },
+      { "name": "Bootstrap", "level": 85 },
+      { "name": "TailwindCSS", "level": 85 },
+      { "name": "JavaFX", "level": 70 },
+      { "name": "PyQt5", "level": 70 }
+    ]
+  },
+  {
+    "icon": "Server",
+    "title": "Backend Development",
+    "color": "purple",
+    "skills": [
+      { "name": "Java", "level": 80 },
+      { "name": "Python", "level": 80 },
+      { "name": "PHP", "level": 65 },
+      { "name": "C", "level": 70 }
+    ]
+  },
+  {
+    "icon": "Database",
+    "title": "Database",
+    "color": "green",
+    "skills": [
+      { "name": "MySQL", "level": 85 },
+      { "name": "MongoDB", "level": 75 }
+    ]
+  },
+  {
+    "icon": "Settings",
+    "title": "Tools & Frameworks",
+    "color": "pink",
+    "skills": [
+      { "name": "Git/GitHub", "level": 90 },
+      { "name": "VS Code", "level": 95 }
+    ]
+  }
+]

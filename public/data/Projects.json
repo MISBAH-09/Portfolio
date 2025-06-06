@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Mobile Shop Purchasing Shop",
+    "github": "https://github.com/MISBAH-09/Mobile-Shp-managment-System-backend",
+    "linkedin": "https://linkedin.com/company/yourproject",
+     "description": [
+    "An application designed to purchasing and inventory processes for mobile shops. Developed using JavaFX, the system offers an intuitive and responsive user interface for efficient management of mobile phones and accessories."],
+    "Key Features":[
+    "Product Categorization: Organized inventory by brand, specifications, and price range for easy access.",
+    "Customer & Sales Management: Maintained customer records, tracked purchase history, generated invoices, and managed order workflows.",
+    "Inventory Management: Real-time stock tracking with low-stock alerts and dynamic inventory updates.",
+    "Search & Filtering: Enabled fast product lookup with filters by brand, model, price, and availability.",
+    "Optimized Data Handling: Implemented efficient database queries to ensure fast and reliable performance.",
+    "User Interface: Developed a clean, user-friendly interface using JavaFX for smooth and responsive navigation."
+  ],
+    "keyAchievements": [
+      "Streamlined sales and inventory processes, reducing manual workload",
+      "Delivered a responsive and user-friendly interface for efficient navigation",
+      "Enhanced data accuracy and stock visibility through real-time updates",
+      "Demonstrated strong skills in OOP, UI/UX design, and database integration"
+    ],
+    "techStack": ["Java", "JavaFX", "File Mangment - Serialization"],
+    "startYear": "Nov 2023",
+    "endYear": "Dec 2023",
+    "collaborators": [
+      { "name": "Hamza Sabir", "linkedin": "https://www.linkedin.com/in/hamza-sabir-2a2973257/", "github": "https://github.com/hamza0s2" }
+    ],
+    "videoUrl": "/projectvideo/mobile-shop-management-system.mp4",
+        "images": [
+      "/projectimgs/project1/project1.1.jpg",
+      "/projectimgs/project1/project1.2.jpg",
+      "/projectimgs/project1/project1.3.jpg",
+      "/projectimgs/project1/project1.4.jpg",
+      "/projectimgs/project1/project1.5.jpg",
+      "/projectimgs/project1/project1.6.jpg",
+      "/projectimgs/project1/project1.7.jpg"
+    ]
+  },{
+    "id": 2,
+    "name": "Clinic Management System",
+    "github": "https://github.com/MISBAH-09/Clinic-Mangament-System/",
+    "linkedin": "https://www.linkedin.com/posts/misbah-sahar-898825282_python-pyqt5-mysql-activity-7324503039485063168-HNVV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETSSLQBaaHP1McdPewf0nsVnZ5QUrgjt1s",
+    "description": [
+      "A desktop-based clinic management system for handling patient records, prescriptions, inventory, and staff operations efficiently."
+    ],
+    "Key Features": [
+      "Doctor Panel: Doctors can check patients, diagnose illnesses, and prescribe medicines digitally.",
+      "Patient History Access: View past prescriptions, diagnoses, and reports for informed decision-making.",
+      "Reception Panel: Register new patients, maintain records, and handle patient inquiries.",
+      "Admin Panel: Manage clinic inventory, doctor/receptionist profiles, and oversee prescription records.",
+      "Inventory Management: Monitor medical supplies and ensure availability of prescribed medicines.",
+      "User Interface: Built a clean and responsive UI using PyQt5 for seamless navigation.",
+      "Database Integration: Used MySQL for managing patient, doctor, and inventory records effectively."
+    ],
+    "keyAchievements": [
+      "Developed a role-based system for doctors, receptionists, and admins.",
+      "Streamlined patient diagnosis and prescription workflow digitally.",
+      "Ensured real-time inventory visibility and control."
+    ],
+    "techStack": ["Python", "PyQt5", "MySQL"],
+    "startYear": "Jan 2024",
+    "endYear": "Feb 2024",
+    "collaborators": [
+       { "name": "Malik Muhmamad Suleman", "linkedin": "https://www.linkedin.com/in/muhamad-suleman-69149a226/", "github": "http://github.com/Suleman-Saleh/" },
+      { "name": "Muhammad Ali", "linkedin": "https://www.linkedin.com/in/maliprogmeleon/", "github": "https://github.com/aligmirza/" }
+    ],
+    "videoUrl": "/projectvideo/clinic-managment-system.mp4",
+    "images": [
+      "/projectimgs/project2/project2.1.jpg",
+      "/projectimgs/project2/project2.2.jpg",
+      "/projectimgs/project2/project2.3.jpg",
+      "/projectimgs/project2/project2.4.jpg",
+      "/projectimgs/project2/project2.5.jpg",
+      "/projectimgs/project2/project2.6.jpg"
+    ]
+  },{
+    
+    "id": 3,
+    "name": "Smart City Collaborative Dashboard",
+    "github": "https://github.com/MISBAH-09/Smart-City-Collaborative-Dashboard",
+    "linkedin": "https://www.linkedin.com/posts/misbah-sahar-898825282_smartcity-reactjs-mongodb-activity-7336775927990792192-2EC9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETSSLQBaaHP1McdPewf0nsVnZ5QUrgjt1s",
+    "description": [
+      "A Smart City Dashboard to connect citizens, officials, and administrators for efficient city management and engagement."
+    ],
+    "Key Features": [
+      "Admin Panel: Add/manage departments (e.g., transport, sanitation), assign tasks and roles, view real-time city maps with issues and proposals.",
+      "Department Dashboard: Internal chat, generate reports, track and resolve citizen complaints, and evaluate proposals.",
+      "Citizen Portal: File complaints via forms or AR, track resolution status, and vote on proposals to improve the city.",
+      "Real-time map integration with issue and proposal tracking.",
+      "Role-based access control for different user types (admin, officials, citizens).",
+      "Citizen engagement through complaint submission, tracking, and voting."
+    ],
+    "keyAchievements": [
+      "Built a full-stack Smart City Dashboard within 10 hours at Technoverse.",
+      "Implemented real-time map and chat features for interactive civic engagement."
+    ],
+    "techStack": ["React.js", "TailwindCSS", "MongoDB", "Express.js", "Node.js", "HTML5"],
+    "startYear": "2025",
+    "endYear": "2025",
+    "collaborators": [
+      { "name": "Khawaja Shaheer Asim", "linkedin": "https://linkedin.com/in/mikejohnson", "github": "https://github.com/shaheerasim320" },
+      { "name": "Hassan Asghar", "linkedin": "https://www.linkedin.com/in/hassaan-asghar-2002y/", "github": "https://github.com/Hassaan-Asghar" }
+    ],
+    "videoUrl": "/projectvideo/sccd.mp4",
+    "images": [
+      "/projectimgs/project3/project3.1.PNG",
+      "/projectimgs/project3/project3.2.PNG",
+      "/projectimgs/project3/project3.3.PNG",
+      "/projectimgs/project3/project3.4.PNG",
+      "/projectimgs/project3/project3.5.PNG",
+      "/projectimgs/project3/project3.6.PNG",
+      "/projectimgs/project3/project3.7.PNG",
+      "/projectimgs/project3/project3.8.PNG"
+
+
+    ]
+  }
+
+
+
+]

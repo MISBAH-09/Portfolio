@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "organization": "TechCorp Solutions",
+    "role": "Senior Frontend Developer",
+    "duration": "18 months",
+    "startYear": "2023",
+    "endYear": "Present",
+    "location": "San Francisco, CA",
+    "description": "Leading frontend development for enterprise web applications using React and TypeScript. Mentoring junior developers and implementing best practices for code quality and performance optimization.",
+    "collaborators": [
+      { "name": "Sarah Johnson", "linkedin": "https://linkedin.com/in/sarahjohnson" },
+      { "name": "Michael Chen", "github": "https://github.com/michaelchen" }
+    ],
+    "achievements": [
+      "Reduced application load time by 40%",
+      "Led migration to TypeScript",
+      "Mentored 5 junior developers"
+    ],
+    "technologies": ["React", "TypeScript", "Next.js", "Tailwind CSS", "GraphQL"]
+  },
+  {
+    "id": 2,
+    "organization": "StartupXYZ",
+    "role": "Full Stack Developer",
+    "duration": "2 years",
+    "startYear": "2021",
+    "endYear": "2023",
+    "location": "New York, NY",
+    "description": "Developed and maintained full-stack web applications from conception to deployment. Worked closely with product and design teams to create user-centric solutions.",
+    "collaborators": [
+      { "name": "Alex Rodriguez", "linkedin": "https://linkedin.com/in/alexrodriguez" },
+      { "name": "Emily Davis", "github": "https://github.com/emilydavis" }
+    ],
+    "achievements": [
+      "Built 3 major product features",
+      "Improved API response time by 60%",
+      "Implemented automated testing pipeline"
+    ],
+    "technologies": ["Vue.js", "Node.js", "MongoDB", "Express", "AWS"]
+  },
+  {
+    "id": 3,
+    "organization": "Digital Agency Pro",
+    "role": "Web Developer Intern",
+    "duration": "6 months",
+    "startYear": "2021",
+    "endYear": "2021",
+    "location": "Remote",
+    "description": "Assisted in developing client websites and learned industry best practices. Gained experience in project management and client communication.",
+    "collaborators": [
+      { "name": "David Wilson", "linkedin": "https://linkedin.com/in/davidwilson" }
+    ],
+    "achievements": [
+      "Completed 10+ client projects",
+      "Learned agile methodology",
+      "Received outstanding intern award"
+    ],
+    "technologies": ["HTML", "CSS", "JavaScript", "WordPress", "PHP"]
+  }
+]

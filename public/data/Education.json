@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "institution": "COMSATS UNIVERSITY ISLAMABAD, LAHORE CAMPUS",
+    "degree": "Bachelor of Science in Computer Science",
+    "startYear": "Feb 2023",
+    "endYear": "Present",
+    "grade": "3.53 GPA",
+    "location": "Rawind Road, LHR",
+    "description": "Pursuing a Bachelor of Science in Computer Science with a specialization in Software Engineering and Web Development. Building strong foundations in programming, database systems, and network administration. Actively engaged in technical and cultural societies, combining leadership with academic excellence.",
+    "achievements": [
+      "Head of Marketing Mechs @ RAS (Robotics and Automation Society)",
+      "Member of CICS (COMSATS Cultural and Islamic Society)"
+    ]
+  },
+  {
+    "id": 2,
+    "institution": "Concordia Group of Colleges",
+    "degree": "F.Sc. (Pre-Medical)",
+    "startYear": "Sep 2020",
+    "endYear": "Oct 2022",
+    "grade": "92.36%",
+    "location": "Shahdara, LHR",
+    "description": "Completed F.Sc. (Pre-Medical) with distinction, securing a strong academic background in biological sciences while actively exploring interests in IT and leadership. Initiated and led extracurricular tech activities during high school.",
+    "achievements": [
+      "Memeber of the Debate and Quiz Team",
+      "Member of Badminton Team"
+    ]
+  }
+]
